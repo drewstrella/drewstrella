@@ -2,11 +2,9 @@
 USF Graduate Student with a degree in Physics
 Currently working on my Masters in Engineering
 
-Experience in
--Python
--CAD
+I have experience with Python, particularly in Data Science
 
-- 🌱 I am seeking an entry level coding job.
+- 🌱 I am seeking to begin my career in Data Science
 
 I was first introduced to coding through my Physics Degree where I took courses focused on Python for computation, 
 analysis, and visualization to prepare students for research environments. I also used Python in my coursework and labratory experience.
